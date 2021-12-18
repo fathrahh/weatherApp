@@ -1,4 +1,4 @@
-const appKey = 'f65a03197c8190baae3c2d78ad12f6e1';
+const appKey = 'APIKEY';
 const city = document.querySelector('.search-city');
 const btnSearch = document.querySelector('.btn-search');
 const cards = document.querySelector('.card-1');
